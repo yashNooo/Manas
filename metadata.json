@@ -1,0 +1,9 @@
+{
+  "name": "TravelAI: Your Personal Trip Concierge",
+  "description": "An all-in-one travel companion for planning, managing expenses, and reliving memories using advanced Gemini AI integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
